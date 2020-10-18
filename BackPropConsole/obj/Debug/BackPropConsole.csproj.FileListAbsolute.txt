@@ -1,0 +1,7 @@
+C:\Users\DVRKe\source\repos\BackPropConsole\BackPropConsole\obj\Debug\BackPropConsole.csprojAssemblyReference.cache
+C:\Users\DVRKe\source\repos\BackPropConsole\BackPropConsole\obj\Debug\BackPropConsole.csproj.CoreCompileInputs.cache
+C:\Users\DVRKe\source\repos\BackPropConsole\BackPropConsole\bin\Debug\BackPropConsole.exe.config
+C:\Users\DVRKe\source\repos\BackPropConsole\BackPropConsole\bin\Debug\BackPropConsole.exe
+C:\Users\DVRKe\source\repos\BackPropConsole\BackPropConsole\bin\Debug\BackPropConsole.pdb
+C:\Users\DVRKe\source\repos\BackPropConsole\BackPropConsole\obj\Debug\BackPropConsole.exe
+C:\Users\DVRKe\source\repos\BackPropConsole\BackPropConsole\obj\Debug\BackPropConsole.pdb
